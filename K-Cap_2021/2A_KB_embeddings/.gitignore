@@ -1,0 +1,8 @@
+**/*.pkl
+**/*.json
+
+**/*.txt
+**/*.swp
+**/.DS_Store
+**/*.model
+**/*.*~

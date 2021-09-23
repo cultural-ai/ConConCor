@@ -1,0 +1,6 @@
+date within "1890-01-01 1899-12-31" AND type=artikel
+date within "1900-01-01 1909-12-31" AND type=artikel
+date within "1910-01-01 1919-12-31" AND type=artikel
+date within "1920-01-01 1929-12-31" AND type=artikel
+date within "1930-01-01 1939-12-31" AND type=artikel
+date within "1940-01-01 1941-12-31" AND type=artikel
