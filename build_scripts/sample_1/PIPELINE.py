@@ -14,8 +14,7 @@ def main():
     # ------
     # As per https://pro.europeana.eu/resources/apis/intro#access, an api key is required to query the eurpeaana database. Please add below:
     # ------
-    user_key = "awatement"
-    # user_key = "paste your key here"
+    user_key = "paste your key here"
 
     # ------
     # catalogue europeana newspaper articles
