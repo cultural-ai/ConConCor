@@ -46,25 +46,25 @@ The dataset is split into 4 sub-sets to reduce repetition in the data (and there
   * spatial\_origin
   * spatial\_origin
 
+
 Additional files:
 
-1. alpha\_per\_group.csv
-* group: groups of annotators, group\_1 – group\_57 Prolific groups, group\_58 – group\_60 experts groups
-* alpha: Krippendorff's alpha scores (annotators agreement)
-* num\_annotators: number of annotators in a group
-* annotators\_id: a list (str) of annotators' IDs in a group
-* extracts\_id: a list (str) of extracts IDs in a batch (or per group)
+alpha_per_group.csv
+group: groups of annotators, group_1 – group_57 Prolific groups, group_58 – group_60 experts groups
+alpha: Krippendorff's alpha scores (annotators agreement)
+num_annotators: number of annotators in a group
+annotators_id: a list (str) of annotators' IDs in a group
+extracts_id: a list (str) of extracts IDs in a batch (or per group)
 
-
-2. percentage\_agreement.csv
-* extract\_id: same as in Extracts.csv
-* target: same as in Extracts.csv
-* omstreden: number of annotators in a group selected the option “Omstreden naar huidige maatstaven”
-* niet\_omstreden: number of annotators in a group selected the option “Niet omstreden”
-* weet\_ik\_niet: number of annotators in a group selected the option “Weet ik niet”
-* bad\_ocr: number of annotators in a group selected the option “Onleesbare OCR”
-* num\_annotators: number of annotators in a group
-* percentage\_agreement: percentage agreement between annotators in a group per exrtract
+percentage_agreement.csv
+extract_id: same as in Extracts.csv
+target: same as in Extracts.csv
+omstreden: number of annotators in a group selected the option “Omstreden naar huidige maatstaven”
+niet_omstreden: number of annotators in a group selected the option “Niet omstreden”
+weet_ik_niet: number of annotators in a group selected the option “Weet ik niet”
+bad_ocr: number of annotators in a group selected the option “Onleesbare OCR”
+num_annotators: number of annotators in a group
+percentage_agreement: percentage agreement between annotators in a group per exrtract
 
 ## Building the dataset
 
